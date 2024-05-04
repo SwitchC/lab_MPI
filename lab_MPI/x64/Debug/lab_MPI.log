@@ -1,0 +1,15 @@
+﻿  lab_MPI.cpp
+C:\Users\Веталь\Desktop\lab_MPI\lab_MPI\lab_MPI.cpp(50,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_MPI\lab_MPI\lab_MPI.cpp(51,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_MPI\lab_MPI\lab_MPI.cpp(66,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_MPI\lab_MPI\lab_MPI.cpp(129,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_MPI\lab_MPI\lab_MPI.cpp(168,99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_MPI\lab_MPI\lab_MPI.cpp(176,100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_MPI\lab_MPI\lab_MPI.cpp(183,100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_MPI\lab_MPI\lab_MPI.cpp(190,99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_MPI\lab_MPI\lab_MPI.cpp(197,100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_MPI\lab_MPI\lab_MPI.cpp(204,100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_MPI\lab_MPI\lab_MPI.cpp(211,100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_MPI\lab_MPI\lab_MPI.cpp(215,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_MPI\lab_MPI\lab_MPI.cpp(216,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab_MPI.vcxproj -> C:\Users\Веталь\Desktop\lab_MPI\x64\Debug\lab_MPI.exe
